@@ -1,0 +1,5 @@
+DRIVER = '{ODBC Driver 17 for SQL Server}'
+SERVER = '<your-azure-sql-server>.database.windows.net'
+DATABASE = '<your-database-name>'
+USERNAME = '<your-username>'
+PASSWORD = '<your-password>'
